@@ -18,4 +18,4 @@ A string can be called a palindrome if we read it from forward or backward, it a
 
 1. Naive Method theta(n)/theta(n)
 2. Efficient Method O(n)/O(1)
-3. Recursion Method
+3. Recursion Method O(n)/O(n)
